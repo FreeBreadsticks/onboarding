@@ -41,6 +41,34 @@ You should see something like this:
 
 Once you're on the organizations page you will first need to remove the TC from Learn Verified.
 
+From the organizations page make sure that you have `v-000` selected underneath `Learn Verified` on the left side bar:
+
+![alt text](./images/org-side.png)
+
+Click on `V 000` - sometimes it can take a minute to load so be patient:
+
+![alt text](./images/v-000.png)
+
+Once the list of students populates find the name of the TC that you need to remove, hover over their name and click the red minus button - **make sure the name is correct!** :
+
+![alt text](./images/remove-tc.png)
+
+On this same page we need to add the new TC to the Teaching Assistants. This will give them access to expert chat. On the right side bar scroll down until you see `+ Teaching Assistants`. Click this button and either type in the TC's name or email and then click `Add` - **be sure that you have added the correct person!**:
+
+![alt text](./images/ta.png)
+
+Now we can add the TC to the Technical Coach Training Track! On the same page select `Curriculum (Internal)` and make sure `learn-expers-testing-batch` is highlighted:
+
+![alt text](./images/internal.png)
+
+Click on `Learn Experts Training Batch`. Once the list has loaded make sure that you are viewing the `Technical Coach Training` track:
+
+![alt text](./images/tc-track.png)
+
+Then Select the `+ Students` button on the top:
+
+![alt text](./images/plus-tc.png)
+
 Learn Experts Testing Batch `+Students` == Select Technical Coach Training track
 
 
