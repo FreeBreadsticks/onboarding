@@ -72,7 +72,7 @@ Then Select the `+ Students` button on the top:
 
 Where it says `Add students` type in the name of the TC(they should come up) and then click `Add Students`:
 
-![alt text](./images/plus-tc.png)
+![alt text](./images/add-student.png)
 
 Double check the list to be sure that you've added the TC.
 
