@@ -53,7 +53,7 @@ Once the list of students populates find the name of the TC that you need to rem
 
 ![alt text](./images/remove-tc.png)
 
-On this same page we need to add the new TC to the Teaching Assistants. This will give them access to expert chat. On the right side bar scroll down until you see `+ Teaching Assistants`. Click this button and either type in the TC's name or email and then click `Add` - **be sure that you have added the correct person!**:
+On this same page we need to add the new TC to the Teaching Assistants. This will give them access to expert chat. On the right side bar scroll down until you see `+ Teaching Assistants`. Click this button and either type in the TC's name or email(they should come up) and then click `Add` - **be sure that you have added the correct person!**:
 
 ![alt text](./images/ta.png)
 
@@ -69,8 +69,12 @@ Then Select the `+ Students` button on the top:
 
 ![alt text](./images/plus-tc.png)
 
-Learn Experts Testing Batch `+Students` == Select Technical Coach Training track
 
+Where it says `Add students` type in the name of the TC(they should come up) and then click `Add Students`:
+
+![alt text](./images/plus-tc.png)
+
+Double check the list to be sure that you've added the TC.
 
 # Add Technical Coach to the Learn Batches as Teachers Assistant
 
