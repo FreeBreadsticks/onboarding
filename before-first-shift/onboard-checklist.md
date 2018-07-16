@@ -22,15 +22,25 @@
 
 
 
-# Add Technical Coach to the Technical Coach Training module as student
+# Add Technical Coach to the Technical Coach Training Module as a Student
 
 Log into Learn.co
 
-Select Admin
+Click on `Admin` on the top right of the home screen
 
-Select Organizations
+![alt text](./images/admin.png)
 
-Remove from Learn Verified
+Select `Organizations` from the drop down menu
+
+![alt text](./images/organizations.png)
+
+You should see something like this:
+
+![alt text](./images/organizations-page.png)
+
+
+Once you're on the organizations page you will first need to remove the TC from Learn Verified.
+
 Learn Experts Testing Batch `+Students` == Select Technical Coach Training track
 
 
@@ -38,7 +48,7 @@ Learn Experts Testing Batch `+Students` == Select Technical Coach Training track
 
 Log into Learn.co
 
-Select Admin
+Select Admin from the top right of the screen
 
 Select Organizations
 
