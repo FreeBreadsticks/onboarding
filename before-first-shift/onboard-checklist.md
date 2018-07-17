@@ -1,6 +1,5 @@
 # Onboarding Checklist
 
-## 3 days before their first day
 [Please check off on this spreadsheet once your completed the onboarding checklist ](https://docs.google.com/spreadsheets/d/1agAXKRnfLiSLNjAnvR6LQl125ATnrI9tpBoBe6s_XHw/edit#gid=0)
 - [ ] Add Technical Coach to the learn batches (v-000) as Teachers Assistant
 
