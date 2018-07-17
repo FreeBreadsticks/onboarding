@@ -7,9 +7,6 @@
 - [ ] Add Technical Coach to the Technical Coach Training module as student
 
 - [ ] Add Technical Coach to the slack channels
-    -- #tc_updates
-    -- #technical-coaches
-    -- #yoursquadschannel
 
 - [ ] Add Technical Coach to the instructor's app
 
@@ -17,8 +14,7 @@
 
 - [ ] Add Technical Coach to squad email group
 
-- [ ] Email Technical Coach to welcome them on the team.
-    -- Tell them the expectation before their first day (completing the Training module) and what to expect the first day of onboarding.
+- [ ] Email Technical Coach to welcome them on the team
 
 
 
