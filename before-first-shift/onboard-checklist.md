@@ -53,10 +53,6 @@ Once the list of students populates find the name of the TC that you need to rem
 
 ![alt text](./images/remove-tc.png)
 
-On this same page we need to add the new TC to the Teaching Assistants. This will give them access to expert chat. On the right side bar scroll down until you see `+ Teaching Assistants`. Click this button and either type in the TC's name or email(they should come up) and then click `Add` - **be sure that you have added the correct person!**:
-
-![alt text](./images/ta.png)
-
 Now we can add the TC to the Technical Coach Training Track! On the same page select `Curriculum (Internal)` and make sure `learn-expers-testing-batch` is highlighted:
 
 ![alt text](./images/internal.png)
@@ -80,28 +76,53 @@ Double check the list to be sure that you've added the TC.
 
 Log into Learn.co
 
-Select Admin from the top right of the screen
+Select `Admin` from the top right of the screen:
 
-Select Organizations
+![alt text](./images/admin.png)
 
-On side of page take out of student list and add as TA
+Select `Organizations` from the dropdown menu:
 
-# Add Technical Coach to the slack channels
+![alt text](./images/organizations.png)
 
-On slack select Flatiron Staff
+From the organizations page make sure that you have `v-000` selected underneath `Learn Verified` on the left side bar:
 
-Then Select Administration
+![alt text](./images/org-side.png)
 
-Then Select Manage Memebers
+Click on `V 000` - sometimes it can take a minute to load so be patient:
 
-Then select Invite New Members> Multi Channel Guests
+![alt text](./images/v-000.png)
 
-Then add them to the following channels
- - 1. #technical-coaches
- - 2. #tc_updates
- - 3. #tc_support
- - 4. #virtualbox
- - 5. #squadchannelname
+On this same page we need to add the new TC to the Teaching Assistants. This will give them access to expert chat. On the right side bar scroll down until you see `+ Teaching Assistants`. Click this button and either type in the TC's name or email(they should come up) and then click `Add` - **be sure that you have added the correct person!**:
+
+![alt text](./images/ta.png)
+
+
+# Add Technical Coach to the Slack Channels
+
+On Slack click Flatiron Staff and then slect `Administration` in the dropdown menu:
+
+![alt text](./images/slack-fi.png)
+
+Then Select `Manage Memebers`:
+
+![alt text](./images/manage-members.png)
+
+This should open a tab in your browser. From here click `Invite New Members`:
+
+![alt text](./images/invite.png)
+
+Select `Multi Channel Guests`:
+
+![alt text](./images/multipass.png)
+
+Enter their email into the email address field and add them to the following channels
+ - #technical-coaches
+ - #tc_updates
+ - #tc_support
+ - #virtualbox
+ - #squadchannelname
+
+ Click `Invite Guests` to complete the process! 
 
 
 # Add Technical Coach to the instructor's app
