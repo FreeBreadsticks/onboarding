@@ -129,13 +129,17 @@ Enter their email into the email address field and add them to the following cha
 
 Log into https://instruction.learn.co/staff/home
 
-Select Admin
+From the home page hover over `Admin` and select `Users` from the dropdown menu:
 
-Select Users
+![alt text](./images/admin-users.png)
 
-Select Update Users
+Select `Update Users`:
 
-Add them to technical coach and staff
+![alt text](./images/update.png)
+
+Enter in their Github Username and click `Search`. Once the page loads with the information check the `Technical Coach` and `Staff` boxes.
+
+![alt text](./images/roles.png)
 
 # Add Technical Coach to flatiron-labs/teams/learn-expert group
 
@@ -144,7 +148,22 @@ Add them to technical coach and staff
 
 # Email Technical Coach to welcome them on the team.
 
-Send the new TC a welcoming email outlining their first day and address general expectations. 
+Send the new TC a welcoming email outlining their first day and address general expectations. Here is a good example of what it should look like:
+
+>Welcome to [SQUAD NAME]!
+>
+>I am really excited that you are joining our squad!  I am looking forward to working with you!  My goal as a Technical Coach Lead is to make sure the channels of communication are open for the members of our cohort.  I will be having regular cohort meetings with the group and 1-on-1 meetings with each member.  Remember that if these meetings fall outside of your scheduled shift you must log them in workday and you will be paid for that time.  I will also be shadowing you on screen shares/dispatch twice a month as you work with students to give you any advice or tips that I think might help you going forward.
+>
+>I have added you to the TC Training Track which you will find on Learn.co in the pulldown curriculum menu.  Please try to go through it before your first shift.  I have also added you to several channels on slack:  The technical-coach channel which is where the TCs communicate during the shift, the tc_updates channel which is where you will get messages that are sent to all TCs, the tc_support channel which is where you can find common issues as well as their solutions, the virtualbox channel where you can find help for debugging VM issues and the [squad channel name] which is the channel for our cohort.
+>
+>You also have access now to https://learn.co/expert-chat# which is where we communicate with the students during the shift - it is the Ask A Question portal for TCs.  
+>
+>Finally, I have added you to the Learn Instructor App which is found at http://instruction.learn.co/staff/home.  There is a lot of good information here so take some time to look through it when you have a chance.
+>
+>I know that getting started it seems like a lot of information is coming at you.  Please feel free to DM me directly any time with any questions!  I am really looking forward to working with you and getting to know you.  Welcome to the team!
+>
+>Best,
+>[TCL NAME]
 
 [Example welcome email](./welcome-email)
 
