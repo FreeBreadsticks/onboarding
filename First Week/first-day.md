@@ -2,13 +2,17 @@
 
 Before the TC begins taking screen shares you will to bring them into a zoom session. Introduce yourself and talk to the TC to get a feel of who they are and where they're at. Make sure they feel comfortable and confident. At this point the new TC should have already shadowed a couple of people on shift a few days prior to their first shift so they should have the gist of the procedure. 
 
-## Shadow Sessions
+## Introduction and Shadow Sessions
 
-In this initial meeting explain to them that they will shadow an experienced TC three times. Watch expert chat and slack. Help facilitate these sessions by selecting questions that you feel would be beneficial to their learning. You could also notify the experienced TC they will be shadowed by the new one. Check in with the TC between the screen shares to see if they have any questions about the procedures. Make sure to go over the details of the process and positions:
-- Dispatch: This TC works in chat and parses the questions. They will be the one who queues students for screen share.
-- Sync: TCs who are in sync wait for the dispatcher to queue the question and then for qbot to assign them to a screen share. They send zoom links to students to pair with them.
+In this initial meeting explain to them that they will shadow an experienced TC three times. Give details about qbot. About the specific qbot commands, such as qbot in sync, qbot in dispatch (which of course they won’t start out as), qbot out at the end of the day, qbot done for finishing a screen share, and qbot unresponsive as well the guidelines for when to use it, and when to qbot done the unresponsive question. Make sure to go over the details of the process and positions:
+- Dispatch: This TC works in chat and parses the questions. They will be the one who queues students for screen share. Let them know that they will NOT be doing dispatch at first.
+- Sync: TCs who are in sync wait for the dispatcher to queue the question and then for qbot to assign them to a screen share. They send zoom links to students to pair with them. Let them know that this will be the position they start out with.
 - Qbot: Our pal in Slack that lets us know what students are queued, which TCs are assigned and which are free. It's qbot that allows us to organize the screenshares. 
     - Also explain qbot commands and the flow of being assigned a question, `more help`ing a student, and `done`ing a question.
+
+
+
+ Watch expert chat and slack. Help facilitate these sessions by selecting questions that you feel would be beneficial to their learning. You could also notify the experienced TC they will be shadowed by the new one. Check in with the TC between the screen shares to see if they have any questions about the procedures. 
 
 
 ## Mock Pairing Sessions    
@@ -25,7 +29,7 @@ Here are 3 that have been used in the past:
 
 //TODO: Maybe start a repository with a collection of broken labs? 
 
-How you facilitate the mock sessions is up to you. You may ask a question using AAQ and have the new TC take you from there (as long as AAQ isn't too busy and the dispatcher is aware!). You can also begin the mock session via direct messaging in Slack. Just make sure you try to make it feel as if they are entering a true pairing session. Send a message saying you have an issue with a lab and allow the new TC to send you a zoom link to join them. Remember that the TC should be leading you to the solution via the socratic method. After each session give them feedback. Here's a rubric to help with your feedback:
+How you facilitate the mock sessions is up to you. You may ask a question using AAQ and have the new TC take you from there (as long as AAQ isn't too busy and the dispatcher is aware!). You can also begin the mock session via direct messaging in Slack. Just make sure you try to make it feel as if they are entering a true pairing session. Send a message saying you have an issue with a lab and allow the new TC to send you a zoom link to join them. Remember that the TC should be leading you to the solution via the socratic method. After each session give them feedback - it's important to include positive feedback along with the critical. Here's a rubric to help with your feedback:
 
 #### Rating on Scale of 1-5
 
@@ -34,38 +38,26 @@ How you facilitate the mock sessions is up to you. You may ask a question using 
 3. An encouraging and patient demeanor: 
 4. Your ability to use questions to direct student attention and help student think about the problem: 
 5. Your ability to gracefully direct student towards google/documentation if it seems like they need it: 
+6. Glow (what did they do well?):
+7. Grow (what do they need to work on?): 
 
-An important aspect of this process is to help build confidence in the TC and make them more comfortable with what to expect. If the TC seems uncertain or less confident be sure to address that by reminding them that the entire team is here to support them and help them in their journey. 
+
+## The Real Deal (Sort of)
+
+Once you've completed all three mock sessions it will be time for them to take their very first student into a screen share. Let the new TC know that you will be shadowing them for their first three screen shares and double check that they are confident and comfortable with moving forward. Have the new TC `qbot in sync` to begine either taking or assigning the questions. If at all possible try to find questions that relate more to lab material and debugging in general rather a complicated environment issue. A good way to help boost the confidence of the new TC is to have them take questions that are more simple and straight forward. 
+
+During the screen shares try to give the TC hints if you feel like they are struggling. If they still struggle with figuring out the issue feel free to hop in with them to help! After each session have the TC `qbot out` to give them feedback (you can use the same rubric to help with your feedback). Be sure to also use this time to answer any questions they have!
+
+After their third session let them know the next pairing session they will be on their own! After the third screen share you observe. Let them know if they need help, to tell the student “Let me get another technical coach to assist us with this issue” and give you the link to their screen share so you can join. 
+
+## After the First Solo Screen Share
+
+Once they complete their first screen share on their own successfully have them `qbot out`. Bring them into another zoom session to see how they feel about the process and if they are ready to go on their own. Go over any other details they may be uncertain about. Also let them know as colleagues, we’ll be there to help support and to feel free to reach out to us if they get stuck. If they don’t feel like they are ready just yet, let them do one more on their own without you being in the screen share, but acting as a backup. 
+
+Remember, an important aspect of this process is to help build confidence in the TC and make them more comfortable with what to expect. If the TC seems uncertain or less confident be sure to address that by reminding them that the entire team is here to support them and help them in their journey. 
+
+If everything has gone well let the TC know that they are now ready to begin taking screen shares on their own. Remind them that they are going to do great and that we have all got their back if they need it! To help them with their first week give them this [cheat sheet](https://docs.google.com/document/d/1XRbL-lHTfpkeGwyr1zyiE3BFXeVfCv9jU4OCOxtHrjY/edit).
+
+Keep an eye on the TC as they make their way through their first shift. Make sure that they `qbot out` once their shift has ended. If possible meet with them after the end of their shift to discuss how they felt that they did as well as address any other issues. If you are unable to meet the same day as their shift follow up the next day.
 
 
-Give details about qbot. About the specific qbot commands, such as qbot in sync, qbot in dispatch (which of course they won’t start out as), qbot out at the end of the day, qbot done for finishing a screen share, and qbot unresponsive as well the guidelines for when to use it, and when to qbot done the unresponsive question.
-
-Qbot commands to go over:
-```
-qbot in sync - logs in TC as sync support
-qbot in dispatch - logs in TC as dispatch support
-qbot out - signs out TC
-qbot queue <link> - adds question to Q (dispatch only)
-qbot take <link> - assigns question to the TC using this command.
-qbot unresponsive - If student hasn't responded within 5 minutes, type this in chat to place them back in queue for sleep and send them a message like 'Let us know when you get back!', it was give it to the next TC after 5 minutes. If there is no response, this will be done again and repeated until the student responds or it's been 30 minutes, to where you will qbot done the question.
-qbot q - shows a list of all the students in q
-qbot who is on? - shows a list of tc's, if they are paired, and how long they've been paired.
-```
-
-2. Start out with three roleplay screen shares where you are the student and they are TC (give feedback).
-
-3. Start out with three screen shares letting them shadow you and see your process.
-
-4. Go over any details of the process you take after each screen share to make sure they understand the process.
-
-5. Have the shadower do 3 screen shares while you observe, giving hints in slack if you feel they are lost. If they are unable to figure it out feel free to jump in and help (but only as a last resort). Give feedback after each screen share.
-
-6. After the third screen share you observe. Have them do one on their own without you in the screen share. Let them know if they need help, to tell the student “Let me get another technical coach to assist us with this issue” and give you the link to their screen share so you can join.
-
-7. Once they complete their first screen share on their own successfully. See how they feel about the process and if they are ready to go on their own. Also let them know as colleagues, we’ll be there to help support and to feel free to reach out to us if they get stuck.
-
-8. If they don’t feel like they are ready just yet, let them do one more on their own without you being in the screen share, but acting as a backup. With the same guidelines (see 7 for details).
-
-9. Let them know they are ready to start screen shares and wish them the best of luck and remind them they have the other technical coaches as support.
-
-10. At the end of the day, make sure they qbot out and fill out the end of the day survey(might pair with them in zoom to oversee it)!
