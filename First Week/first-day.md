@@ -29,7 +29,9 @@ Here are 3 that have been used in the past:
 
 //TODO: Maybe start a repository with a collection of broken labs? 
 
-How you facilitate the mock sessions is up to you. You may ask a question using AAQ and have the new TC take you from there (as long as AAQ isn't too busy and the dispatcher is aware!). You can also begin the mock session via direct messaging in Slack. Just make sure you try to make it feel as if they are entering a true pairing session. Send a message saying you have an issue with a lab and allow the new TC to send you a zoom link to join them. Remember that the TC should be leading you to the solution via the socratic method. After each session give them feedback - it's important to include positive feedback along with the critical. Here's a rubric to help with your feedback:
+How you facilitate the mock sessions is up to you. You may ask a question using AAQ and have the new TC take you from there (as long as AAQ isn't too busy and the dispatcher is aware!). You can also begin the mock session via direct messaging in Slack. Just make sure you try to make it feel as if they are entering a true pairing session. Send a message saying you have an issue with a lab and allow the new TC to send you a zoom link to join them. 
+
+Remember that the TC should be leading you to the solution via the socratic method. After each session give them feedback - it's important to include positive feedback along with the critical. Here's a rubric to help with your feedback:
 
 #### Rating on Scale of 1-5
 
@@ -44,7 +46,9 @@ How you facilitate the mock sessions is up to you. You may ask a question using 
 
 ## The Real Deal (Sort of)
 
-Once you've completed all three mock sessions it will be time for them to take their very first student into a screen share. Let the new TC know that you will be shadowing them for their first three screen shares and double check that they are confident and comfortable with moving forward. Have the new TC `qbot in sync` to begine either taking or assigning the questions. If at all possible try to find questions that relate more to lab material and debugging in general rather a complicated environment issue. A good way to help boost the confidence of the new TC is to have them take questions that are more simple and straight forward. 
+Once you've completed all three mock sessions it will be time for them to take their very first student into a screen share. Let the new TC know that you will be shadowing them for their first three screen shares and double check that they are confident and comfortable with moving forward. 
+
+Have the new TC `qbot in sync` to begine either taking or assigning the questions. If at all possible try to find questions that relate more to lab material and debugging in general rather a complicated environment issue. A good way to help boost the confidence of the new TC is to have them take questions that are more simple and straight forward. 
 
 During the screen shares try to give the TC hints if you feel like they are struggling. If they still struggle with figuring out the issue feel free to hop in with them to help! After each session have the TC `qbot out` to give them feedback (you can use the same rubric to help with your feedback). Be sure to also use this time to answer any questions they have!
 
