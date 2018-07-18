@@ -1,5 +1,19 @@
 # Day One of Training
 
+- [ ] Introduction and Shadow Sessions
+
+- [ ] 3 Shadowing Sessions
+
+- [ ] 3 Mock Pairing Sessions
+
+- [ ] 3 Live Sessions with TCL Shadowing
+
+- [ ] 1 Solo Session with TCL as backup
+
+- [ ] New TC Cheat Sheet
+
+- [ ] First Shift Follow Up
+
 Before the TC begins taking screen shares you will to bring them into a zoom session. Introduce yourself and talk to the TC to get a feel of who they are and where they're at. Make sure they feel comfortable and confident. At this point the new TC should have already shadowed a couple of people on shift a few days prior to their first shift so they should have the gist of the procedure. 
 
 ## Introduction and Shadow Sessions
@@ -9,8 +23,6 @@ In this initial meeting explain to them that they will shadow an experienced TC 
 - Sync: TCs who are in sync wait for the dispatcher to queue the question and then for qbot to assign them to a screen share. They send zoom links to students to pair with them. Let them know that this will be the position they start out with.
 - Qbot: Our pal in Slack that lets us know what students are queued, which TCs are assigned and which are free. It's qbot that allows us to organize the screenshares. 
     - Also explain qbot commands and the flow of being assigned a question, `more help`ing a student, and `done`ing a question.
-
-
 
  Watch expert chat and slack. Help facilitate these sessions by selecting questions that you feel would be beneficial to their learning. You could also notify the experienced TC they will be shadowed by the new one. Check in with the TC between the screen shares to see if they have any questions about the procedures. 
 

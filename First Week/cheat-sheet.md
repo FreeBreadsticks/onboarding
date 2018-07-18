@@ -21,8 +21,8 @@
 
 ## Shift Tips
 - If you are going to be late be sure to let the people on shift know (if possible)
-- If you are assigned a screen share 5 min before you shift ends, feel free to qbot more help 
-- If you are unsure of an issue, @here the channel to see if any other TC might be able to help you with it, you can qbot more help if you still feel stuck
-- Watch your time - try your best to keep your screen shares in the 20 minute time range
+- If you are assigned a screen share 5 min before you shift ends, feel free to `qbot more help` 
+- If you are unsure of an issue, `@here` the channel to see if any other TC might be able to help you with it, you can qbot more help if you still feel stuck
+- Watch your time - try your best to keep your screen shares in the **20 minute time range**
 - Use annotations! In zoom, at the top of the screen, there’s a drop down with options - select `annotate` and you can can add lines / arrows to the screen - help to focus the student’s attention
-- If you want to run qbot commands(ones that aren’t qbot take or qbot done) - you can dm them directly to qbot, this helps keep the main chat clear (for example; if you wanted to run qbot who is on?) 
+- If you want to run qbot commands(ones that aren’t qbot take or qbot done) - you can dm them directly to qbot, this helps keep the main chat clear (for example: if you wanted to run `qbot who is on?`) 
