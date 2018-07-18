@@ -52,7 +52,7 @@ Have the new TC `qbot in sync` to begine either taking or assigning the question
 
 During the screen shares try to give the TC hints if you feel like they are struggling. If they still struggle with figuring out the issue feel free to hop in with them to help! After each session have the TC `qbot out` to give them feedback (you can use the same rubric to help with your feedback). Be sure to also use this time to answer any questions they have!
 
-After their third session let them know the next pairing session they will be on their own! After the third screen share you observe. Let them know if they need help, to tell the student “Let me get another technical coach to assist us with this issue” and give you the link to their screen share so you can join. 
+After their third session let them know the next pairing session they will be on their own! Let them know if they need help, to tell the student “Let me get another technical coach to assist us with this issue” and give you the link to their screen share so you can join. 
 
 ## After the First Solo Screen Share
 
