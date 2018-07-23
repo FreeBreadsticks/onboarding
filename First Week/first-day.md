@@ -29,7 +29,7 @@ In this initial meeting explain to them that they will shadow an experienced TC 
 
 ## Mock Pairing Sessions    
 
-Once the new TC has completed the three observations you will want to bring them into another zoom session. Explain that you will now be conducting a mock pairing session in which you will be the student and the new TC will act as the TC supporting the issue.
+Once the new TC has completed the three observations you will want to bring them into another zoom session. Explain that you will now be conducting a mock pairing session in which you will be the student and the new TC will act as the TC supporting the issue. 
 
 Before you begin reiterate to them how we expect a TC to handle a screen share with a student. Make sure they understand they should keep their time within 20 minutes, that they should treat the student with respect and empathy, and the importance of using the socratic method to guide the student to the answer. Have 3 labs broken in preparation for these mock pairing sessions. 
 
@@ -43,7 +43,7 @@ Here are 3 that have been used in the past:
 
 How you facilitate the mock sessions is up to you. You may ask a question using AAQ and have the new TC take you from there (as long as AAQ isn't too busy and the dispatcher is aware!). You can also begin the mock session via direct messaging in Slack. Just make sure you try to make it feel as if they are entering a true pairing session. Send a message saying you have an issue with a lab and allow the new TC to send you a zoom link to join them. 
 
-Remember that the TC should be leading you to the solution via the socratic method. After each session give them feedback - it's important to include positive feedback along with the critical. Here's a rubric to help with your feedback:
+Remember that the TC should be leading you to the solution via the socratic method. After each session give them feedback - it's important to include positive feedback along with the critical. You will want to create a document where you can keep your notes to compare with the other TCL who is onboarding and to see if the TC is improving on the action items given. Here's a rubric to help with your feedback:
 
 #### Rating on Scale of 1-5
 
