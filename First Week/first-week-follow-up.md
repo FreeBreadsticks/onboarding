@@ -2,7 +2,7 @@
 
 - [ ] Slack Check-ins
 - [ ] 1 Observation and Feedback Session
-- [ ] JIRA ticket video
+- [ ] JIRA Ticket Intro
 
 
 ## Slack Check-Ins
@@ -24,7 +24,7 @@ If there are issues or misconceptions, you can have the new TC focus on specific
 You will also want to introduce submitting a ticket using JIRA at some point in the first week. Briefly describe the process and how it works. Make sure that they have access to these resources:
 - [Issue Priority Definitions](https://docs.google.com/spreadsheets/d/1_yr-CsT0hIfSEcz9vv9yjkRGWQLeKmG40SNjywphoOc/edit#gid=0)
 - [How to Create Good JIRA Tickets](https://github.com/flatiron-labs/technical-coach-resources/blob/master/jira-tickets.md)
-- [Video on Submitting JIRA Ticket](https://github.com/flatiron-labs/technical-coach-resources/blob/master/jira-tickets.md)
+- [TODO: Video on Submitting JIRA Ticket](https://github.com/flatiron-labs/technical-coach-resources/blob/master/jira-tickets.md)
 
 
  Be sure to answer any questions the TC may have regarding JIRA tickets. If possible have the new TCF shadow a seasoned TC submitting a ticket that way they can see the process.

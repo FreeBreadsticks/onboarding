@@ -17,8 +17,6 @@
 - Do not swap or take a shift that would cause you to have over 29 hours for a week (Sunday - Saturday) without checking first with Ruth
 - Meeting with Squad, with Ruth or with TCL are payable time.  Include the time on workday.
 
-
-
 ## Shift Tips
 - If you are going to be late be sure to let the people on shift know (if possible)
 - If you are assigned a screen share 5 min before you shift ends, feel free to `qbot more help` 
