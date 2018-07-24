@@ -1,62 +1,21 @@
 # Onboarding
 
 TODO:
-Technical Coach Onboarding Process
-Tech Coach Lead
-Before First Shift
-Add Technical Coach to the learn batches (v-000) as Teachers Assistant
-Add Technical Coach to the Technical Coach Training module as student
-Add Technical Coach to the slack channels -- #tc_updates -- #technical-coaches -- #yoursquadschannel
-Add Technical Coach to the instructor's app
-Add Technical Coach to flatiron-labs/teams/learn-expert group
-Add Technical Coach to squad email group 
-Email Technical Coach to welcome them on the team. -- Tell them the expectation before their first day (completing the Training module) and what to expect the first day of onboarding.
-Have the new TC shadow three screenshares of an experienced TC
-Conduct three mock screenshares with TC
-Guidelines here: CREATE THIS DOC
-Document insights/observations/feedback from roleplay
 
 First Day
-Shadow TC on three screenshares
-Document insights/observations from shadowing
-Meet with TC to share feedback
-Be available to help TC get comfortable with new role
+Clean up Rough Draft
 
 First Week
-Each TCL should shadow each shadow the onboarding tc
-Document observations / insights
-TCL meeting to assess new TCs
+Clean up Rough Draft
 
 Second Week
-Check in with TC
-TCL each shadow the onboarding tc, TCL meeting for feedback
-End of week - transition fully to their TCL squad 
+Clean up Rough Draft
+Dispatch Guide
 
 Third Week
 Fully transitioned to TC squad
 TCL should start introducing them to specialization ( study groups, 1:1 support) if necessary
 
-New Technical Coach
-Three days before First Shift
-Three shadows / observations
-Three mock screenshares with TCL
-
-First Day
-
-
-
-First Week
-Check in with TC after their first couple of shifts 
-Shadow a TC submitting a Jira ticket
-
-Second Week
-Ease into dispatch by shadowing 
-Submit a Jira ticket ( if they have to do it, or another TC has to submit a Jira ticket)
-Check in with TC
-End of week - transition fully to their TCL squad 
-
-Third Week
-Start specialization on study groups or 1:1 portfolio support (perhaps more shadowing here?)
 
 General Notes
 Learn Expert track should be rewritten to include update material

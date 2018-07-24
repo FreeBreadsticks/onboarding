@@ -1,0 +1,3 @@
+# Dispatch Best Practices
+
+If this is the first shift of the day, the coaches that are currently on will need to decide which of them will be working dispatch (normally a more seasoned coach will take this role). If you are taking dispatch you will need to `qbot in dispatch` in the #technical-coaches channel. Remember, that you need to make sure you have another coach standing by to take dispatch once your shift has ended.
