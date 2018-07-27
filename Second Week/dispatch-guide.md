@@ -1,10 +1,13 @@
 # Dispatch Best Practices
 
-If this is the first shift of the day, the coaches that are currently on will need to decide which of them will be working dispatch (normally a more seasoned coach will take this role). If you are taking dispatch you will need to `qbot in dispatch` in the #technical-coaches channel. Remember, that you need to make sure you have another coach standing by to take dispatch once your shift has ended.
+If this is the first shift of the day, the coaches that are currently on will need to decide which of them will be working dispatch (normally a more seasoned coach will take this role). If you are taking dispatch you will need to `qbot in dispatch` in the #technical-coaches channel. Remember, that you need to make sure you have another coach standing by to take dispatch once your shift has ended. 
 
 ## What Even is a Dispatch?
 
-Dispatch can seem overwhelming at first. There's a lot going on and an endless supply of students needing help! The dispatcher acts as the gatekeeper between the students and the TC's that are in sync. It is the dispatcher's job to keep things organized and to make sure that each student is attended to. It can seem intense when there are many active questions but stay calm and remember that you've got a whole team of people who are ready to help! As with anything, the more you do it, the better you will get.
+![alt text](https://i.imgflip.com/27o9l7.gif)
+
+
+Dispatch can seem overwhelming at first. There's a lot going on and an endless supply of students needing help! The dispatcher acts as the gatekeeper between the students and the TC's that are in sync. It is the dispatcher's job to keep things organized and to make sure that each student is attended to. It can seem intense when there are many active questions but stay calm and remember that you've got a whole team of people who are ready to help! As with anything, the more you do it, the better you will get. 
 
 ## The Interface
 
@@ -100,11 +103,38 @@ Handling the volume of questions can be quite a challenge at times. However, it 
 
 ## Tips and Tricks
 
-- **Zoom Out:** 
+- **Zoom Out:** Expert Chat is really large at the regular resolution. So when I work dispatch I like to keep the screen zoomed out around 75% to 67%. This allows for me to monitor the questions with a lot greater ease. Take a look at the difference: 
 
-- **Buy Yourself Time:**
+`100%`
+![alt text](./images/100.png)
 
-- **Student and Lab Info:**
+`67%`
+![alt text](./images/67.png)
+
+- **Buy Yourself Time:** Is AAQ getting completely slammed and you need a way to get your feet on the ground? You can buy yourself time using a couple tricks:
+    - Have the student run `learn save` and tell them you'll be looking at their repo. This can usually buy you aroun 5 - 10 minutes. Use this time greet other incoming questions, and then come back and get them to a simple solution or assign them to a screen share if it's more difficult.
+    - Send them a resource to read over that is relevant to their issue. If you see some syntax problems with their loop send them documentation for it. Even if they don't completely understand it at first, this should buy you about 5 minutes before you may need to explain it further.  
+    - Have the student use `pry`. If they're in a Ruby lab have them drop a pry in a method and ask them what a couple values return when they run the tests. Often times this will buy you a good amount of time and sometimes its all they need to figure the issue out on their own!
+
+- **Student and Lab Info:** Think of this information as the legend of a map. There is **SO** much great information here to help you gauge and prepare for the question as well as the student. Pay close attention the the `question count`, `note count`, and the `lab issues`. Take a look at the notes if you see a student with a lot of them - you will be able to get a feel for where they're at and what they are struggling with. When a student gets a strange error double check the lab issues - there may be a solution to a bug in the lab there! 
+
+    ![alt text](./images/key.png)
+
+    1. Notes and Questions asked - a high number is an indicator of a student who usually needs a lot of help.
+    2. Link to the Student's forked Repo - click this to see their repo after they've run `learn save`.
+    3. The button you click to copy the `qbot queue` link.
+    4. The issue count of the lab - a high number usually means there are some problems with the lab. Check this if a student comes in with a strange issue/error.
 
 - **Helpful Resources**
+    - [Snippet Tool - Dash](https://kapeli.com/dash)
+    - [1:1 Project Support](https://theflatironschool.typeform.com/to/B9BrgH)
+    - [Two Minute Tid-Bit Videos](https://github.com/flatiron-labs/technical-coach-resources/blob/master/dispatch-cheatsheet.md#2-minute-tid-bits)
+    - [How to Paste Code into a Question](http://help.learn.co/ask-a-question/how-do-i-paste-code-in-a-question)
+    - [Changing Environment](http://help.learn.co/the-learn-ide/changing-your-learning-environment)
+    - [Local Environment Setup](http://help.learn.co/workflow-tips/local-environment/when-should-i-set-up-a-local-environment)
+    - [Resource Guide for Most Asked About Labs](http://help.learn.co/resource-guide-for-most-asked-about-labs)
+    - [Flatiron Video Lectures](https://instruction.learn.co/student/video_lectures#/)
+    - [IDE Help Articles](http://help.learn.co/the-learn-ide)
+    - [Virtual Box Trouble Shooting](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md#tutorial-how-to-enable-vt-x)
+
 
