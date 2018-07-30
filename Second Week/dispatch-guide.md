@@ -23,7 +23,7 @@ Let's take a look at some of the expert-chat basics:
 4. `Student and Lab Information`: This is arguably one of the most informative pieces of the expert chat UI. It is here where you can see how many questions the student has asked in total as well as how many notes are taken. You can also find the lab name, link, and how many issues are currently raised on the lab. (I will go into greater detail later in this guide)
 
 5. `Chat Bar, Resolve Button, and Enrollments Button`: As you might have guessed, this is where you will message the student. You can also find the button to resolve the question as well as the button to assign the question to admissions.
-    - The `ASSIGN TO ENROLLEMENTS` button will resolve the question - so be sure to let the student know before pressing this.
+    - The `ASSIGN TO ENROLLMENTS` button will resolve the question - so be sure to let the student know before pressing this.
     - When resolving old questions make sure to let the student know the question had been inactive and you are resolving. You will want to say something like this: 
         >Hey there! This question looks like it's been inactive for quite some time, so I'm going to resolve. Please feel free to open a new one next time you're stuck! :)
 
