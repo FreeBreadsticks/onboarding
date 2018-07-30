@@ -18,7 +18,7 @@ Before the TC begins taking screen shares you will to bring them into a zoom ses
 
 ## Introduction and Shadow Sessions
 
-In this initial meeting explain to them that they will shadow an experienced TC three times. Give details about qbot. About the specific qbot commands, such as qbot in sync, qbot in dispatch (which of course they won’t start out as), qbot out at the end of the day, qbot done for finishing a screen share, and qbot unresponsive as well the guidelines for when to use it, and when to qbot done the unresponsive question. Make sure to go over the details of the process and positions:
+In this initial meeting explain to them that they will shadow an experienced TC(this should be a strong TC that has been around for a few months) three times. Give details about qbot. Make sure to go over the details of the process and positions:
 - Dispatch: This TC works in chat and parses the questions. They will be the one who queues students for screen share. Let them know that they will NOT be doing dispatch at first.
 - Sync: TCs who are in sync wait for the dispatcher to queue the question and then for qbot to assign them to a screen share. They send zoom links to students to pair with them. Let them know that this will be the position they start out with.
 - Qbot: Our pal in Slack that lets us know what students are queued, which TCs are assigned and which are free. It's qbot that allows us to organize the screenshares. 
@@ -61,6 +61,8 @@ Remember that the TC should be leading you to the solution via the socratic meth
 Once you've completed all three mock sessions it will be time for them to take their very first student into a screen share. Let the new TC know that you will be shadowing them for their first three screen shares and double check that they are confident and comfortable with moving forward. 
 
 Have the new TC `qbot in sync` to begine either taking or assigning the questions. If at all possible try to find questions that relate more to lab material and debugging in general rather a complicated environment issue. A good way to help boost the confidence of the new TC is to have them take questions that are more simple and straight forward. 
+
+>NOTE: If the TC is not able to `qbot in sync` make sure that their Slack nick-name/display name is one word. Usually this is the issue.
 
 During the screen shares try to give the TC hints if you feel like they are struggling. If they still struggle with figuring out the issue feel free to hop in with them to help! After each session have the TC `qbot out` to give them feedback (you can use the same rubric to help with your feedback). Be sure to also use this time to answer any questions they have!
 

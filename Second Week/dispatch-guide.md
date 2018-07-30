@@ -22,7 +22,10 @@ Let's take a look at some of the expert-chat basics:
 
 4. `Student and Lab Information`: This is arguably one of the most informative pieces of the expert chat UI. It is here where you can see how many questions the student has asked in total as well as how many notes are taken. You can also find the lab name, link, and how many issues are currently raised on the lab. (I will go into greater detail later in this guide)
 
-5. `Chat Bar, Resolve Button, and Enrollments Button`: As you might have guessed, this is where you will message the student. You can also find the button to resolve the question as well as the button to assign the question to admissions. 
+5. `Chat Bar, Resolve Button, and Enrollments Button`: As you might have guessed, this is where you will message the student. You can also find the button to resolve the question as well as the button to assign the question to admissions.
+    - The `ASSIGN TO ENROLLEMENTS` button will resolve the question - so be sure to let the student know before pressing this.
+    - When resolving old questions make sure to let the student know the question had been inactive and you are resolving. You will want to say something like this: 
+        >Hey there! This question looks like it's been inactive for quite some time, so I'm going to resolve. Please feel free to open a new one next time you're stuck! :)
 
 
 ## Dispatch Goals
@@ -37,19 +40,19 @@ Try to keep these goals in mind as you make your way through a dispatch shift:
 Always greet the student quickly and with a smile. Instead of diving straight into the issue first ask the student "How are you today? :)"
 
 2. **Decipher the Issue:**
-Have the student send you their code along with the error. Use your judgement and decide wether this student is best suited in a screen share or if it's something you can handle over chat.
+Have the student send you their code along with the error. Use your judgement and decide whether this student is best suited in a screen share or if it's something you can handle over chat.
 
 3. **Monitor TC Screen Share Times:** 
 If it's busy you will want to make sure the TC's in sync are staying within the 20 minute range. Use `qbot who is on?` to show you who is on a screen share and for how long. If they're at the limit ping them to let them know! (You could do something like `@thanos :timer:` in Slack!)
 
 4. **Support Your Fellow TCs:**
-Occasionally some truly exceptionally issues will come up. You normally will be able to tell quickly if an issue is severe if you've gathered enough information in chat. In these cases a TC might be in a long screen share for a reason. Direct message the TC and ask them if everything is going ok or if they need help. Offer assistance if you are able to, help esclate if necessary, or have another TC join them if possible and necessary.
+Occasionally some truly exceptional issues will come up. You normally will be able to tell quickly if an issue is severe if you've gathered enough information in chat. In these cases a TC might be in a long screen share for a reason. Direct message the TC and ask them if everything is going ok or if they need help. Offer assistance if you are able to, help esclate if necessary, or have another TC join them if possible and necessary.
 
 5. **Offering Resources:**
-In AAQ we are only supposed to help with issues related to the lab work. Sometimes there will be questions you can't support. If the student is asking about requirements, tuition, or anyting else about the course like that you will want to assign the question to admissions. If they're asking for help on a portfolio project you will want to direct them to 1:1 support.
+In AAQ we are only supposed to help with issues related to the lab work. Sometimes there will be questions you can't support. If the student is asking about requirements, tuition, or anything else about the course like that, you will want to assign the question to admissions. If they're asking for help on a portfolio project you will want to direct them to 1:1 support.
 
 
-## Coversation Flow
+## Conversation Flow
 
 Conversations over text can come across as dry and robotic at times. When speaking with a student be a genuine person. A student who has been struggling for over an hour might be a bit on edge. It's important that you come across kind and encouraging throughout the chat. Emojis are a good way to set the tone to a relaxed and welcoming one so I use them often.
 
@@ -89,14 +92,15 @@ Handling the volume of questions can be quite a challenge at times. However, it 
 
 1. **Be Aware at All Times:** You likely are helping at least one student debug via chat. Don't get too drawn in that you ignore everything else. Be sure that the `Requires Action` section is always in view on your screen. Every couple of minutes or so you will want to check that you can see the bottom of the `Active Questions` tab. (Sometimes students will respond to a question that has been in the `Inactive` section and they can be easy to miss if you aren't checking often) You should also take the time every 5 minutes or so to click on each question from the bottom of `Active` to the top. You will want to do this just to make sure that each student is getting the help that they need and you aren't missing anyone.
 
-2. **`qbot who is on?`:** It is really important for the dispatcher to know how long TCs have been in a screen share. This is esepcially true when it is busy and there is a queue. If you are on a queue or close to being on queue take a look at what the TCs in sync are doing. Make sure that they are within their 20 minute time range by using `qbot who is on?` as often as necessary. If you see that they are over on their time be sure to ping them on Slack!
+2. **`qbot who is on?`:** It is really important for the dispatcher to know how long TCs have been in a screen share. This is especially true when it is busy and there is a queue. If you are on a queue or close to being on queue take a look at what the TCs in sync are doing. Make sure that they are within their 20 minute time range by using `qbot who is on?` as often as necessary. If you see that they are over on their time be sure to ping them on Slack!
 
 3. **Prioritize Paid Students:** We support all kinds of students in AAQ - from the in person immersive, to the online Fullstack course, to the free bootcamp prep course. Understand that although we provide help for all of these students we must place priority on those that are paying. Make sure that paying students are assigned to screen shares before the free students. If you have a ton of active questions be sure to pay attention to those who are paying first and once things are under control begin helping the free students. 
     - **Paid Student Examples:** `V-000`, `DUMBO-WEB`, `NYC-WEB`, `Prework`
     - **Free Student Examples:** `BOOTCAMP-PREP`, `JS-INTRO`, `RUBY-APPLY`
 
 
-4. **Stagger Question Assignments:**  If 3 questions come in at once and you queue them all immediately and you only have 3 TCs in sync you have now created a 20 minute wait. It's likely a 4th student will show up shortly after and they will be stuck waiting. Staggering the question queues can save a ton of time a prevent a massive queue if done correctly. If you queue every question that comes into chat you are likely going to create a queue. Instead try to pick one student that you think you can support over chat, send one to a screen share, and have the other look at some resources or have them run `learn save`. Even 5 minutes between assignments can help later down the road. 
+4. **Stagger Question Assignments:**  If 3 questions come in at once and you queue them all immediately and you only have 3 TCs in sync you have now created a 20 minute wait. It's likely a 4th student will show up shortly after and they will be stuck waiting. Staggering the question queues can save a ton of time and prevent a massive queue if done correctly. Instead  of queueing everything that walks in, try to pick one student that you think you can support over chat, send one to a screen share, and have the other look at some resources or have them run `learn save`. Even 5 minutes between assignments can help later down the road. 
+
 
 5. **Keeping Resources on Hand:** You'll get familiar with the issues that come into AAQ quickly if you work dispatch often. It's a good idea to always keep a collection of links and resources handy to send to these students. Always knowing where to find links like the ones to 1:1 support, two minute tidbit videos, and solutions to common issues will help you manage the wait time and the volume of the questions.
 
@@ -112,7 +116,7 @@ Handling the volume of questions can be quite a challenge at times. However, it 
 ![alt text](./images/67.png)
 
 - **Buy Yourself Time:** Is AAQ getting completely slammed and you need a way to get your feet on the ground? You can buy yourself time using a couple tricks:
-    - Have the student run `learn save` and tell them you'll be looking at their repo. This can usually buy you aroun 5 - 10 minutes. Use this time greet other incoming questions, and then come back and get them to a simple solution or assign them to a screen share if it's more difficult.
+    - Have the student run `learn save` and tell them you'll be looking at their repo. This can usually buy you around 5 - 10 minutes. Use this time to greet other incoming questions, and then come back and get them to a simple solution or assign them to a screen share if it's more difficult.
     - Send them a resource to read over that is relevant to their issue. If you see some syntax problems with their loop send them documentation for it. Even if they don't completely understand it at first, this should buy you about 5 minutes before you may need to explain it further.  
     - Have the student use `pry`. If they're in a Ruby lab have them drop a pry in a method and ask them what a couple values return when they run the tests. Often times this will buy you a good amount of time and sometimes its all they need to figure the issue out on their own!
 
@@ -124,6 +128,8 @@ Handling the volume of questions can be quite a challenge at times. However, it 
     2. Link to the Student's forked Repo - click this to see their repo after they've run `learn save`.
     3. The button you click to copy the `qbot queue` link.
     4. The issue count of the lab - a high number usually means there are some problems with the lab. Check this if a student comes in with a strange issue/error.
+
+- **Unresponsive Students:** Instead of continuing to `unresponsive` a student multiple times, have the TC who was assigned the second time `done` them instead. Make a mental note to check on the student and place them back in the queue once/if they get back. This will help cut down on confusion when AAQ is slammed.
 
 - **Helpful Resources**
     - [Snippet Tool - Dash](https://kapeli.com/dash)
