@@ -37,7 +37,7 @@ As the dispatcher, you also have a large influence on how a shift in general wil
 Try to keep these goals in mind as you make your way through a dispatch shift:
 
 1. **Express Kindness and Be Engaged:**
-Always greet the student quickly and with a smile. Instead of diving straight into the issue first ask the student "How are you today? :)"
+Always greet the student quickly and with a smile. Instead of diving straight into the issue, first ask the student "How are you today? :)"
 
 2. **Decipher the Issue:**
 Have the student send you their code along with the error. Use your judgement and decide whether this student is best suited in a screen share or if it's something you can handle over chat.
