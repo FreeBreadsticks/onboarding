@@ -16,7 +16,7 @@ Let's take a look at some of the expert-chat basics:
 
 1. `Requires Action`: This is where all of the incoming questions initially show up. Questions will also be moved into this section when they have been waiting for a response from a tech coach for more than 15 minutes. The questions that pop up here take priority. Greet students quickly! They will appreciate your prompt response.
 
-2. `Active Questions`: This section contains the students that you are actively chatting with. Play close attention to the blue circles that appear over the student's profile picture. The number in the blue circle tells you how many messages they have sent without being responded too. Try to keep these questions completely clear of the blue by responding to students quickly and effectively. 
+2. `Active Questions`: This section contains the students that you are actively chatting with. Pay close attention to the blue circles that appear over the student's profile picture. The number in the blue circle tells you how many messages they have sent without being responded to. Try to keep these questions completely clear of the blue by responding to students quickly and effectively. 
 
 3. `Inactive Questions`: This section contains students that have not responded to a coach in over 15 minutes. It's a good idea to check these questions occasionally if it is slow to make sure that no student is waiting for a response or screen share from a tech coach! You will also want to resolve questions that have been inactive for over 8-10 hours. 
 
