@@ -46,7 +46,7 @@ Have the student send you their code along with the error. Use your judgement an
 If it's busy you will want to make sure the TCs in sync are staying within the 20 minute range. Use `qbot who is on?` to show you who is on a screen share and for how long. If they're at the limit ping them to let them know! (You could do something like `@thanos :timer:` in Slack!)
 
 4. **Support Your Fellow TCs:**
-Occasionally some truly exceptional issues will come up. You normally will be able to tell quickly if an issue is severe if you've gathered enough information in chat. In these cases a TC might be in a long screen share for a reason. Direct message the TC and ask them if everything is going ok or if they need help. Offer assistance if you are able to, help esclate if necessary, or have another TC join them if possible and necessary.
+Occasionally some truly exceptional issues will come up. You normally will be able to tell quickly if an issue is severe if you've gathered enough information in chat. In these cases a TC might be in a long screen share for a reason. Direct message the TC and ask them if everything is going ok or if they need help. Offer assistance if you are able to, help escalate if necessary(form for more help or JIRA ticket), or have another TC join them if possible and necessary.
 
 5. **Offering Resources:**
 In AAQ we are only supposed to help with issues related to the lab work. Sometimes there will be questions you can't support. If the student is asking about requirements, tuition, or anything else about the course like that, you will want to assign the question to admissions. If they're asking for help on a portfolio project you will want to direct them to 1:1 support.
