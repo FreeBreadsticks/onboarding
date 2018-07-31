@@ -7,7 +7,7 @@ If this is the first shift of the day, the coaches that are currently on will ne
 ![alt text](https://i.imgflip.com/27o9l7.gif)
 
 
-Dispatch can seem overwhelming at first. There's a lot going on and an endless supply of students needing help! The dispatcher acts as the gatekeeper between the students and the TC's that are in sync. It is the dispatcher's job to keep things organized and to make sure that each student is attended to. It can seem intense when there are many active questions but stay calm and remember that you've got a whole team of people who are ready to help! As with anything, the more you do it, the better you will get. 
+Dispatch can seem overwhelming at first. There's a lot going on and an endless supply of students needing help! The dispatcher acts as the gatekeeper between the students and the TCs that are in sync. It is the dispatcher's job to keep things organized and to make sure that each student is attended to. It can seem intense when there are many active questions but stay calm and remember that you've got a whole team of people who are ready to help! As with anything, the more you do it, the better you will get. 
 
 ## The Interface
 
@@ -20,7 +20,7 @@ Let's take a look at some of the expert-chat basics:
 
 3. `Inactive Questions`: This section contains students that have not responded to a coach in over 15 minutes. It's a good idea to check these questions occasionally if it is slow to make sure that no student is waiting for a response or screen share from a tech coach! You will also want to resolve questions that have been inactive for over 8-10 hours. 
 
-4. `Student and Lab Information`: This is arguably one of the most informative pieces of the expert chat UI. It is here where you can see how many questions the student has asked in total as well as how many notes are taken. You can also find the lab name, link, and how many issues are currently raised on the lab. (I will go into greater detail later in this guide)
+4. `Student and Lab Information`: This is arguably one of the most informative pieces of the expert chat UI. It is here where you can see how many questions the student has asked in total as well as how many notes have been taken on that student. You can also find the lab name, link, and how many issues are currently raised on the lab. (I will go into greater detail later in this guide)
 
 5. `Chat Bar, Resolve Button, and Enrollments Button`: As you might have guessed, this is where you will message the student. You can also find the button to resolve the question as well as the button to assign the question to admissions.
     - The `ASSIGN TO ENROLLMENTS` button will resolve the question - so be sure to let the student know before pressing this.
@@ -43,7 +43,7 @@ Always greet the student quickly and with a smile. Instead of diving straight in
 Have the student send you their code along with the error. Use your judgement and decide whether this student is best suited in a screen share or if it's something you can handle over chat.
 
 3. **Monitor TC Screen Share Times:** 
-If it's busy you will want to make sure the TC's in sync are staying within the 20 minute range. Use `qbot who is on?` to show you who is on a screen share and for how long. If they're at the limit ping them to let them know! (You could do something like `@thanos :timer:` in Slack!)
+If it's busy you will want to make sure the TCs in sync are staying within the 20 minute range. Use `qbot who is on?` to show you who is on a screen share and for how long. If they're at the limit ping them to let them know! (You could do something like `@thanos :timer:` in Slack!)
 
 4. **Support Your Fellow TCs:**
 Occasionally some truly exceptional issues will come up. You normally will be able to tell quickly if an issue is severe if you've gathered enough information in chat. In these cases a TC might be in a long screen share for a reason. Direct message the TC and ask them if everything is going ok or if they need help. Offer assistance if you are able to, help esclate if necessary, or have another TC join them if possible and necessary.
@@ -79,7 +79,7 @@ If you have helped a student over chat be sure to follow up with encouragement:
 
 Once you have the student's code and error you should be able to decipher quickly whether or not this is something you can support over chat. To assign the question you will want to use `qbot queue`. 
 
-If you can and you believe it is helpful you may want to add a comment to the assignment regarding the student. This could be a hint or a headsup. The TC that gets assigned will be grateful!
+If you can and you believe it is helpful you may want to add a comment to the assignment regarding the student. This could be a hint or a heads up. The TC that gets assigned will be grateful!
 
 Here's an example of a comment you might add: 
 
@@ -118,7 +118,7 @@ Handling the volume of questions can be quite a challenge at times. However, it 
 - **Buy Yourself Time:** Is AAQ getting completely slammed and you need a way to get your feet on the ground? You can buy yourself time using a couple tricks:
     - Have the student run `learn save` and tell them you'll be looking at their repo. This can usually buy you around 5 - 10 minutes. Use this time to greet other incoming questions, and then come back and get them to a simple solution or assign them to a screen share if it's more difficult.
     - Send them a resource to read over that is relevant to their issue. If you see some syntax problems with their loop send them documentation for it. Even if they don't completely understand it at first, this should buy you about 5 minutes before you may need to explain it further.  
-    - Have the student use `pry`. If they're in a Ruby lab have them drop a pry in a method and ask them what a couple values return when they run the tests. Often times this will buy you a good amount of time and sometimes its all they need to figure the issue out on their own!
+    - Have the student use `pry`. If they're in a Ruby lab have them drop a pry in a method and ask them what a couple values return when they run the tests. Often times this will buy you a good amount of time and sometimes it's all they need to figure the issue out on their own!
 
 - **Student and Lab Info:** Think of this information as the legend of a map. There is **SO** much great information here to help you gauge and prepare for the question as well as the student. Pay close attention the `question count`, `note count`, and the `lab issues`. Take a look at the notes if you see a student with a lot of them - you will be able to get a feel for where they're at and what they are struggling with. When a student gets a strange error double check the lab issues - there may be a solution to a bug in the lab there! 
 
@@ -141,6 +141,6 @@ Handling the volume of questions can be quite a challenge at times. However, it 
     - [Resource Guide for Most Asked About Labs](http://help.learn.co/resource-guide-for-most-asked-about-labs)
     - [Flatiron Video Lectures](https://instruction.learn.co/student/video_lectures#/)
     - [IDE Help Articles](http://help.learn.co/the-learn-ide)
-    - [Virtual Box Trouble Shooting](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md#tutorial-how-to-enable-vt-x)
+    - [Virtual Box Troubleshooting](https://github.com/flatiron-labs/technical-coach-resources/blob/master/virtual-box-setup-errors-and-resources.md#tutorial-how-to-enable-vt-x)
 
 
